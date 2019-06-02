@@ -5,7 +5,9 @@ The project is also deployed on Heroku.<br>
 <br>
 #### Link - https://curdtask.herokuapp.com/
 <br>
+
 ### Screenshots:
+
 ##### Home page: Student Database<br>
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/42863227/58760781-66d07880-855a-11e9-9df0-4f2fe7facf97.png)<br>
