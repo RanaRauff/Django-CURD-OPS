@@ -7,12 +7,19 @@ The project is also deployed on Heroku.<br>
 <br>
 ### Screenshots:
 ##### Home page: Student Database<br>
+
 ![Screenshot (66)](https://user-images.githubusercontent.com/42863227/58760781-66d07880-855a-11e9-9df0-4f2fe7facf97.png)<br>
+
 ##### Insert Data:<br>
+
 ![Screenshot (67)](https://user-images.githubusercontent.com/42863227/58760782-66d07880-855a-11e9-8c50-0109f04dada6.png)<br>
+
 ##### Update Data:<br>
+
 ![Screenshot (68)](https://user-images.githubusercontent.com/42863227/58760783-67690f00-855a-11e9-85ad-5fe82fc513c6.png)<br>
+
 ##### Delete Data:<br>
+
 ![Screenshot (69)](https://user-images.githubusercontent.com/42863227/58760784-67690f00-855a-11e9-8514-f58c5f415743.png)<br>
 
 ### How do I run this project locally?
