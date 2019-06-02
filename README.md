@@ -6,6 +6,11 @@ The project is also deployed on Heroku.<br>
 #### Link - https://curdtask.herokuapp.com/
 <br>
 
+#### Database
+
+Manageable student database is used with 7 attributes to keep the operations uncomplicated with enrollment number as Primary_Key.
+<br>
+
 ### Screenshots:
 
 ##### Home page: Student Database<br>
